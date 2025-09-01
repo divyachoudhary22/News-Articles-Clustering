@@ -1,0 +1,5 @@
+Adjusted Rand Index (ARI): 0.6812
+Normalized Mutual Info (NMI): 0.7335
+Homogeneity: 0.7159
+Completeness: 0.7520
+V-measure: 0.7335
